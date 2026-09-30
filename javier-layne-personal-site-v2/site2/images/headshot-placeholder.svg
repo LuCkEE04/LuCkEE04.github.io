@@ -1,6 +1,0 @@
-<svg viewBox="0 0 400 460" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder headshot — replace with a professional photo">
-  <rect width="400" height="460" fill="#1B1F2A"/>
-  <circle cx="200" cy="175" r="72" fill="none" stroke="#4FA9A0" stroke-width="2"/>
-  <path d="M 82 430 C 82 320 135 282 200 282 C 265 282 318 320 318 430" fill="none" stroke="#4FA9A0" stroke-width="2"/>
-  <text x="200" y="410" text-anchor="middle" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#A9AFC0">headshot.jpg not found</text>
-</svg>
